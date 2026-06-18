@@ -66,7 +66,7 @@ const projects = [
     description:
       "Developed a complete electronic health platform. Handled full-stack development, implementing backend features with Spring Boot and front-end interfaces with ReactJS. Managed patient records, appointments, and secure communication. Contributed to integration and deployment using Docker.",
     image: "/projects/offzone.jpeg",
-    tags: ["Spring Boot", "ReactJS", "MySQL", "Docker", "FullStack"],
+    tags: ["Spring Boot", "ReactJS", "MySQL", "Docker"],
     demoUrl: "#",
     githubUrl: "#",
   },
@@ -82,8 +82,7 @@ const projects = [
       "ReactJS",
       "PostgreSQL",
       "AWS",
-      "Terraform",
-      "FullStack",
+      "Terraform"
     ],
     demoUrl: "#",
     githubUrl: "#",
